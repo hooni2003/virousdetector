@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://virusdetector.netlify.app/sitemap.xml
